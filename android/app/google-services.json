@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766726505344",
+    "project_id": "elcaire-2022",
+    "storage_bucket": "elcaire-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766726505344:android:6287c468ae908fdd5e3765",
+        "android_client_info": {
+          "package_name": "com.example.eclaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766726505344-5nhrslqta7qhus264c7jhs1a7r6n1sak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eclaire",
+            "certificate_hash": "7a3c7471dfe81ff8d4c7ecb1c451406a3eaeb6d3"
+          }
+        },
+        {
+          "client_id": "766726505344-h2ar6242hcb897p39l8f831njb1mrt8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2H7JacIvi6tC-B9kqBtCJmRpsBhkD0R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766726505344-h2ar6242hcb897p39l8f831njb1mrt8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
